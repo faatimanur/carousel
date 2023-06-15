@@ -1,0 +1,17 @@
+.bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0 12px 0;
+    h1{
+        font-weight: 600;
+        font-size: 15.66px;
+        line-height: 19px;
+        letter-spacing: -0.28px;
+    }
+    ul{
+        display: flex;
+        align-items: center;
+        gap: 6px;
+    }
+}

@@ -1,0 +1,13 @@
+
+.card{
+    border: 1px solid;
+    margin: 20px 0;
+}
+h3{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000000;
+    display: flex;
+    align-items: flex-end;
+}
